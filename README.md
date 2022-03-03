@@ -3,5 +3,5 @@
 
 
 # My notes about Chinese language and culture
-[My notes (Мои заметки)](https://htmlpreview.github.io/?https://github.com/Anoncheg1/awesome-chinese/blob/main/index.html)
+[My notes (Мои заметки)](https://anoncheg1.github.io/awesome-chinese/)
  
